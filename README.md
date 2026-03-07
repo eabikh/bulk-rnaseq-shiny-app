@@ -1,4 +1,4 @@
-# bulk-rnaseq-app
+# bulk-rnaseq-shiny-app
 
 A suite to analyze bulk RNA-seq data, including differential gene expression, overrepresentation analysis, gene set enrichment analysis, and custom plots.
 
@@ -72,11 +72,11 @@ BiocManager::install(c(
 
 ```r
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/bulk-rnaseq-app.git
-cd bulk-rnaseq-app
+git clone https://github.com/eabikh/bulk-rnaseq-shiny-app.git
+cd bulk-rnaseq-shiny-app
 
 # Launch in R
-shiny::runApp("app.R")
+shiny::runApp("bbulk.r")
 ```
 
 ---
