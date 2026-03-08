@@ -115,8 +115,13 @@ When multiple batches are provided, the app uses `limma::removeBatchEffect` on l
 
 ## Citation
 
-If you use this app in your research, please cite the underlying tools:
+If you use this app in your research, please cite:
 
+**This app:**
+Abi Khalil, E. (2026). bulk-rnaseq-shiny-app. Zenodo.
+https://doi.org/10.5281/zenodo.18905852
+
+**Underlying tools:**
 - **edgeR**: Robinson et al., *Bioinformatics* (2010)
 - **limma**: Ritchie et al., *Nucleic Acids Research* (2015)
 - **clusterProfiler**: Wu et al., *The Innovation* (2021)
