@@ -119,7 +119,7 @@ If you use this app in your research, please cite:
 
 **This app:**
 Abi Khalil, E. & Lee, S. (2026). bulk-rnaseq-shiny-app. Zenodo.
-https://doi.org/10.5281/zenodo.18905852
+https://doi.org/10.5281/zenodo.18905851
 
 **Underlying tools:**
 - **edgeR**: Robinson et al., *Bioinformatics* (2010)
