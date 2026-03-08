@@ -1,5 +1,7 @@
 # bulk-rnaseq-shiny-app
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18905852.svg)](https://doi.org/10.5281/zenodo.18905852)
+
 A suite to analyze bulk RNA-seq data, including differential gene expression, overrepresentation analysis, gene set enrichment analysis, and custom plots.
 
 ---
