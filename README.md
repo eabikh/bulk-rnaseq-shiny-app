@@ -72,13 +72,15 @@ BiocManager::install(c(
 
 ### Running the App
 
-```r
-# Clone the repo
+**1. Clone the repo (in terminal):**
+```bash
 git clone https://github.com/eabikh/bulk-rnaseq-shiny-app.git
 cd bulk-rnaseq-shiny-app
+```
 
-# Launch in R
-shiny::runApp("bbulk.r")
+**2. Launch the app (in R or RStudio):**
+```r
+shiny::runApp("bbulk.R")
 ```
 
 ---
